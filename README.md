@@ -1,7 +1,7 @@
 DESIGN A PIG FARMING SYSTEM
 - Graduation thesis defense grade: 8.0/10.0
-- Motivation: It is an Iot project that help the farm owner work properly.
-- Components:
+- Motivation: It is an Iot project that help the farm owner work more convenience and properly.
+- Components: Sensors, Peripheral devices, Relay 8-channel, Power supply, LCD2004 which displays the data of sensor, state of devices, Module SIM.
 - Features:
 
 
