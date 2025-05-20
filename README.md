@@ -50,8 +50,12 @@ Power Supply:
 
 ![image](https://github.com/user-attachments/assets/733c8c5b-8267-4ce3-9f7c-036726f7c27f) <br> 
 
+10/ Mobile GUI:
 
-10/ Final product:
+![image](https://github.com/user-attachments/assets/b2aa8cc2-ca91-42a3-9bca-fbe703c36b3c) ![image](https://github.com/user-attachments/assets/c3ce51bd-a07a-44a6-87de-6f53b4f3cc52)  
+<br> 
+
+11/ Final product:
 
 
 ![z5588712647974_7ea4d7834b79aa95a4724e01ca06e532](https://github.com/user-attachments/assets/955dd354-057e-4877-b89e-ed0e7a45aeff) <br> 
